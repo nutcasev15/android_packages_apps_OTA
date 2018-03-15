@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+	<Stable>
+		<Z00A>
+			<Filename>NutOS_031618_Z00A.zip</Filename>
+			<Rom0Url
+				id="rom0"
+				title="ROM Mirror 1"
+				description="Download Latest Build">https://www.androidfilehost.com/?w=files&amp;flid=202789</Rom0Url>
+			<Rom1Url
+				id="rom1"
+				title="ROM Mirror 2"
+				description="Download Latest Build">http://www.mediafire.com/folder/pmutah58rmccc/Z00A</Rom1Url>
+			<LinAppsUrl
+				id="linapps"
+				title="Lineage Apps"
+				description="Download Latest Lineage Apps">https://www.androidfilehost.com/?w=files&amp;flid=202809</LinAppsUrl>
+			<OpenGappsUrl
+				id="open_gapps"
+				title="Open GApps"
+				description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+			<AddonsUrl
+				id="addons"
+				title="Lineage Root And Splendid"
+				description="Download Flashable Zips for Addons">https://www.androidfilehost.com/?w=files&amp;flid=210953</AddonsUrl>
+			<MagiskUrl
+				id="magisk"
+				title="Magisk"
+				description="Download Latest Version">https://sourceforge.net/projects/magisk/files/Magisk-v16.0.zip/download</MagiskUrl>
+			<SignerUrl
+				id="signer"
+				title="Android Verified Boot"
+				description="Needed to Avoid Bootloop - Flash After Magisk">https://sourceforge.net/projects/magisk/files/VerifiedBootSigner-v8.zip/download</SignerUrl>
+			<UninsUrl
+				id="uninstaller"
+				title="Magisk Uninstaller"
+				description="Download Latest Uninstaller">https://sourceforge.net/projects/magisk/files/Magisk-uninstaller-20180222.zip/download</UninsUrl>
+			<XDAUrl
+				id="xda"
+				title="XDA"
+				description="XDA Forum Thread">https://forum.xda-developers.com/zenfone2/development/linos-14-1-nutos-slimified-lineage-zf2-t3654552</XDAUrl>
+		</Z00A>
+		<Z008>
+			<Filename>NutOS_031618_Z008.zip</Filename>
+			<Rom0Url
+				id="rom0"
+				title="ROM Mirror 1"
+				description="Download Latest Build">https://www.androidfilehost.com/?w=files&amp;flid=202794</Rom0Url>
+			<Rom1Url
+				id="rom1"
+				title="ROM Mirror 2"
+				description="Download Latest Build">http://www.mediafire.com/folder/i8z26l7dtcd1x/Z008</Rom1Url>
+			<LinAppsUrl
+				id="linapps"
+				title="Lineage Apps"
+				description="Download Latest Lineage Apps">https://www.androidfilehost.com/?w=files&amp;flid=202809</LinAppsUrl>
+			<OpenGappsUrl
+				id="open_gapps"
+				title="Open GApps"
+				description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+			<AddonsUrl
+				id="addons"
+				title="Lineage Root And Splendid"
+				description="Download Flashable Zips for Addons">https://www.androidfilehost.com/?w=files&amp;flid=210953</AddonsUrl>
+			<MagiskUrl
+				id="magisk"
+				title="Magisk"
+				description="Download Latest Version">https://sourceforge.net/projects/magisk/files/Magisk-v16.0.zip/download</MagiskUrl>
+			<SignerUrl
+				id="signer"
+				title="Android Verified Boot"
+				description="Needed to Avoid Bootloop - Flash After Magisk">https://sourceforge.net/projects/magisk/files/VerifiedBootSigner-v8.zip/download</SignerUrl>
+			<UninsUrl
+				id="uninstaller"
+				title="Magisk Uninstaller"
+				description="Download Latest Uninstaller">https://sourceforge.net/projects/magisk/files/Magisk-uninstaller-20180222.zip/download</UninsUrl>
+			<XDAUrl
+				id="xda"
+				title="XDA"
+				description="XDA Forum Thread">https://forum.xda-developers.com/zenfone2/development/linos-14-1-nutos-slimified-lineage-zf2-t3654552</XDAUrl>
+		</Z008>
+	</Stable>
+</SlimOTA>
+
