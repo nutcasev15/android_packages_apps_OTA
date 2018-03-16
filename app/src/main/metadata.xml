@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
 		<Z00A>
-			<Filename>NutOS_031618_Z00A.zip</Filename>
+			<Filename>NutOS_031718_Z00A.zip</Filename>
 			<Rom0Url
 				id="rom0"
 				title="ROM Mirror 1"
@@ -41,7 +41,7 @@
 				description="XDA Forum Thread">https://forum.xda-developers.com/zenfone2/development/linos-14-1-nutos-slimified-lineage-zf2-t3654552</XDAUrl>
 		</Z00A>
 		<Z008>
-			<Filename>NutOS_031618_Z008.zip</Filename>
+			<Filename>NutOS_031718_Z008.zip</Filename>
 			<Rom0Url
 				id="rom0"
 				title="ROM Mirror 1"
