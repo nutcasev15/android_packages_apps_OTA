@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
 		<Z00A>
-			<Filename>NutOS_031718_Z00A.zip</Filename>
+			<Filename>NutOS_042118_Z00A.zip</Filename>
 			<Rom0Url
 				id="rom0"
 				title="ROM Mirror 1"
@@ -18,23 +18,15 @@
 			<LinAppsUrl
 				id="linapps"
 				title="Lineage Apps"
-				description="Download Latest Lineage Apps">https://www.androidfilehost.com/?w=files&amp;flid=202809</LinAppsUrl>
+				description="Download Latest Lineage Apps [For Every Flash]">https://www.androidfilehost.com/?w=files&amp;flid=202809</LinAppsUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open GApps"
 				description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
 			<AddonsUrl
 				id="addons"
-				title="Lineage Root And Splendid"
+				title="Magisk And Lineage Root And Splendid"
 				description="Download Flashable Zips for Addons">https://www.androidfilehost.com/?w=files&amp;flid=210953</AddonsUrl>
-			<MagiskUrl
-				id="magisk"
-				title="Magisk"
-				description="Download Latest Version">https://sourceforge.net/projects/magisk/files/Magisk-v16.0.zip/download</MagiskUrl>
-			<SignerUrl
-				id="signer"
-				title="Android Verified Boot"
-				description="Needed to Avoid Bootloop - Flash After Magisk">https://sourceforge.net/projects/magisk/files/VerifiedBootSigner-v8.zip/download</SignerUrl>
 			<UninsUrl
 				id="uninstaller"
 				title="Magisk Uninstaller"
@@ -45,7 +37,7 @@
 				description="XDA Forum Thread">https://forum.xda-developers.com/zenfone2/development/linos-14-1-nutos-slimified-lineage-zf2-t3654552</XDAUrl>
 		</Z00A>
 		<Z008>
-			<Filename>NutOS_031718_Z008.zip</Filename>
+			<Filename>NutOS_042118_Z008.zip</Filename>
 			<Rom0Url
 				id="rom0"
 				title="ROM Mirror 1"
@@ -61,23 +53,15 @@
 			<LinAppsUrl
 				id="linapps"
 				title="Lineage Apps"
-				description="Download Latest Lineage Apps">https://www.androidfilehost.com/?w=files&amp;flid=202809</LinAppsUrl>
+				description="Download Latest Lineage Apps [For Every Flash]">https://www.androidfilehost.com/?w=files&amp;flid=202809</LinAppsUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="Open GApps"
 				description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
 			<AddonsUrl
 				id="addons"
-				title="Lineage Root And Splendid"
+				title="Magisk And Lineage Root And Splendid"
 				description="Download Flashable Zips for Addons">https://www.androidfilehost.com/?w=files&amp;flid=210953</AddonsUrl>
-			<MagiskUrl
-				id="magisk"
-				title="Magisk"
-				description="Download Latest Version">https://sourceforge.net/projects/magisk/files/Magisk-v16.0.zip/download</MagiskUrl>
-			<SignerUrl
-				id="signer"
-				title="Android Verified Boot"
-				description="Needed to Avoid Bootloop - Flash After Magisk">https://sourceforge.net/projects/magisk/files/VerifiedBootSigner-v8.zip/download</SignerUrl>
 			<UninsUrl
 				id="uninstaller"
 				title="Magisk Uninstaller"
