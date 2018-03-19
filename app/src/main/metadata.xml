@@ -11,6 +11,10 @@
 				id="rom1"
 				title="ROM Mirror 2"
 				description="Download Latest Build">http://www.mediafire.com/folder/pmutah58rmccc/Z00A</Rom1Url>
+			<ChangelogUrl
+				id="changelog"
+				title="Changelog"
+				description="View changelog">https://forum.xda-developers.com/showpost.php?p=73355216&amp;postcount=2</ChangelogUrl>
 			<LinAppsUrl
 				id="linapps"
 				title="Lineage Apps"
@@ -50,6 +54,10 @@
 				id="rom1"
 				title="ROM Mirror 2"
 				description="Download Latest Build">http://www.mediafire.com/folder/i8z26l7dtcd1x/Z008</Rom1Url>
+			<ChangelogUrl
+				id="changelog"
+				title="Changelog"
+				description="View changelog">https://forum.xda-developers.com/showpost.php?p=73355216&amp;postcount=2</ChangelogUrl>
 			<LinAppsUrl
 				id="linapps"
 				title="Lineage Apps"
